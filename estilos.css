@@ -190,3 +190,9 @@ reglas de la pagina
 nav{
   background-color: aqua;
 }
+.iconos{
+  width: 12px;
+  height: 12px;
+  margin-right: 5px;
+
+}
